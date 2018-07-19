@@ -1,0 +1,9 @@
+indexes:
+  - kind: Comment
+    ancestor: no
+    properties:
+      - name: id
+      - name: user
+      - name: articleId
+      - name: timestamp
+        direction: desc
